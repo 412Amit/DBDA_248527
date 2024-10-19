@@ -1,0 +1,5 @@
+cloud computing is a provide acces to computer services sucd as software
+types of software
+1.Saas
+2.Paas
+3.Iaas
